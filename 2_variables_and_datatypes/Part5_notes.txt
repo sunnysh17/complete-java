@@ -1,0 +1,25 @@
+Float
+163.52
+163.52 * 100/100
+16352 * 1/100
+16352 * 10^-2
+----------------------
+mantissa = 16352
+Exponent = 10^-2
+----------------------
+float = 12.534567 = For float six to seven digits after decimal point.
+For more than 6 digits, use double. - 14-15 digits after decimal point.
+-----------------------------------
+numeric codes for English alphabets are called as ASCII or ASCII American Standard
+ASCII uses unicode characters
+For eg:
+A = 65
+Z = 90
+a = 97
+z = 122
+0 to 9 (Symbol) = 48 to 57
+*, &, $ 
+ASCII codes ranges from 0 to 127.
+ASCII codes needs *7 bits*
+ 
+-----------------------------------
