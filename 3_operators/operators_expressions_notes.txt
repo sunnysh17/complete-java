@@ -1,0 +1,21 @@
+Arithmetic Operators
++
+-
+*
+/ = quotient
+% = MOD = Remainder = works on int & decimals
+
+*, /, % = Higher & Same precedence = left to right associativity
++, -
+------------------------------------------------------
+Increment & decrement Operators
+post++, post --
+++ pre, --pre
+Eg:
+a = 2, b = 5, x = 4
+c = a * (x++) + b ----> c = 2 * (4) + 5
+
+c = a * (++x) + b --> c = 2 * (5) + 5
+
+We cannot perform increment & decrement on boolean data types
+------------------------------------------------------
