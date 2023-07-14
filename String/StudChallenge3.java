@@ -15,7 +15,7 @@ public class StudChallenge3{
 
         //Find number of words in a string
         String words[] = str1.split("\\s"); //Split string into array of words
-        System.out.println(words.length);
+        //System.out.println(words.length);
 
 
 
