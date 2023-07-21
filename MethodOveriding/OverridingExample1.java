@@ -37,6 +37,6 @@ public class OverridingExample1 {
         Tv t  = new smartTv();
         t.switchOn();
         t.changeChannel();
-        t.browse();
+        // t.browse();
     }
 }
