@@ -32,7 +32,7 @@ class Student{
 
 public class Student1{
     public static void main(String[] args) {
-        Student s1 = new Student();
+        StaticPractice3 s1 = new StaticPractice3();
         s1.rollno = 101;
         s1.name = "Sunny";
         s1.course = "CSE";
